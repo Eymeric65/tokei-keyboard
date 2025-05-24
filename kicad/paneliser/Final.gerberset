@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GerberLayoutSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LoadedOutlines>
+    <string>C:\AA_perso\Mechanical keyboard\65_split\Kicad Project\65_split_left\JLCPCB_export_left</string>
+    <string>C:\AA_perso\Mechanical keyboard\65_split\Kicad Project\65_split_right\JLCPCB_export_right</string>
+  </LoadedOutlines>
+  <Instances>
+    <GerberInstance>
+      <Center>
+        <X>216</X>
+        <Y>114</Y>
+      </Center>
+      <Angle>0</Angle>
+      <GerberPath>C:\AA_perso\Mechanical keyboard\65_split\Kicad Project\65_split_left\JLCPCB_export_left</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+    <GerberInstance>
+      <Center>
+        <X>214</X>
+        <Y>114</Y>
+      </Center>
+      <Angle>0</Angle>
+      <GerberPath>C:\AA_perso\Mechanical keyboard\65_split\Kicad Project\65_split_right\JLCPCB_export_right</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+  </Instances>
+  <Tabs>
+    <BreakTab>
+      <Center>
+        <X>215</X>
+        <Y>107</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+    <BreakTab>
+      <Center>
+        <X>215</X>
+        <Y>89</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+    <BreakTab>
+      <Center>
+        <X>215</X>
+        <Y>74</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+  </Tabs>
+  <Width>400</Width>
+  <Height>300</Height>
+  <MarginBetweenBoards>2</MarginBetweenBoards>
+  <ConstructNegativePolygon>false</ConstructNegativePolygon>
+  <FillOffset>3</FillOffset>
+  <Smoothing>1</Smoothing>
+  <ExtraTabDrillDistance>0</ExtraTabDrillDistance>
+  <ClipToOutlines>true</ClipToOutlines>
+  <LastExportFolder>C:\AA_perso\Mechanical keyboard\65_split\Kicad Project\paneliser\export7</LastExportFolder>
+  <DoNotGenerateMouseBites>false</DoNotGenerateMouseBites>
+  <MergeFileTypes>true</MergeFileTypes>
+</GerberLayoutSet>

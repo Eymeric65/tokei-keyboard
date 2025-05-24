@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GerberLayoutSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LoadedOutlines>
+    <string>C:\AA_perso\Mechanical keyboard\65_split\Kicad Project\65_split_right\JLCPCB_export_right\JLCPCB_export_right.zip</string>
+    <string>C:\AA_perso\Mechanical keyboard\65_split\Kicad Project\65_split_left\JLCPCB_export_left\JLCPCB_export_left.zip</string>
+  </LoadedOutlines>
+  <Instances>
+    <GerberInstance>
+      <Center>
+        <X>213.924</X>
+        <Y>114.3</Y>
+      </Center>
+      <Angle>0</Angle>
+      <GerberPath>C:\AA_perso\Mechanical keyboard\65_split\Kicad Project\65_split_right\JLCPCB_export_right\JLCPCB_export_right.zip</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+    <GerberInstance>
+      <Center>
+        <X>0</X>
+        <Y>230.6</Y>
+      </Center>
+      <Angle>0</Angle>
+      <GerberPath>C:\AA_perso\Mechanical keyboard\65_split\Kicad Project\65_split_left\JLCPCB_export_left\JLCPCB_export_left.zip</GerberPath>
+      <Generated>false</Generated>
+    </GerberInstance>
+  </Instances>
+  <Tabs>
+    <BreakTab>
+      <Center>
+        <X>32</X>
+        <Y>115</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+    <BreakTab>
+      <Center>
+        <X>88</X>
+        <Y>115</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+    <BreakTab>
+      <Center>
+        <X>140</X>
+        <Y>115</Y>
+      </Center>
+      <Angle>0</Angle>
+      <Radius>3</Radius>
+      <Valid>false</Valid>
+    </BreakTab>
+  </Tabs>
+  <Width>300</Width>
+  <Height>300</Height>
+  <MarginBetweenBoards>2</MarginBetweenBoards>
+  <ConstructNegativePolygon>false</ConstructNegativePolygon>
+  <FillOffset>3</FillOffset>
+  <Smoothing>1</Smoothing>
+  <ExtraTabDrillDistance>0</ExtraTabDrillDistance>
+  <ClipToOutlines>true</ClipToOutlines>
+  <LastExportFolder />
+  <DoNotGenerateMouseBites>false</DoNotGenerateMouseBites>
+  <MergeFileTypes>true</MergeFileTypes>
+</GerberLayoutSet>

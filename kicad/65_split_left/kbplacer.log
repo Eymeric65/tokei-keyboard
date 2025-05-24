@@ -1,0 +1,83 @@
+[kbplacer_plugin_action.py:63]: Plugin version: 0.10
+[kbplacer_plugin_action.py:64]: Python version: '3.11.5 (main, Jan 19 2024, 08:13:45) [MSC v.1936 64 bit (AMD64)]'
+[kbplacer_plugin_action.py:65]: KiCad version: 8.0.0 with 4.2.0 msw (phoenix) wxWidgets 3.2.4
+[kbplacer_dialog.py:584]: Language: en
+[kbplacer_plugin_action.py:76]: GUI state: {"layout_path": "C:\\AA_perso\\Mechanical keyboard\\65_split\\keyboard_left.json", "key_distance": [19.05, 19.05], "key_info": {"annotation_format": "SW{}", "position_option": "Default", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}, "enable_diode_placement": false, "route_switches_with_diodes": false, "diode_info": {"annotation_format": "D{}", "position_option": "Custom", "position": {"x": 8.4, "y": 0.0, "orientation": 90.0, "side": "Front"}, "template_path": ""}, "additional_elements": [], "route_rows_and_columns": false, "template_path": "", "generate_outline": false, "outline_delta": 1.0}
+[key_placer.py:299]: Set key 1U distance: 19050000/19050000
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Switches by nets: defaultdict(<class 'list'>, {frozenset({'GND', 'Net-(U1-RST)'}): ['SW37']})
+[key_placer.py:116]: Diodes by switch: {}
+[board_modifier.py:63]: Searching for SW1 footprint in C:\AA_perso\Mechanical keyboard\65_split\Kicad Project\65_split_left\65_split_left.kicad_pcb
+[key_placer.py:495]: Looking for connection template between SW1 and other elements
+[board_modifier.py:96]: Getting SW1 footprint position: (53169200, 42780800)
+[key_placer.py:539]: Got connection template: Track [(3639999, -6179999) (2540000, -5080000)], Track [(15410001, -6179999) (3639999, -6179999)], Track [(16510000, -5080000) (15410001, -6179999)], Track [(-3810000, -7950000) (-7000900, -4759100)], Track [(-7000900, -4759100) (-7000900, 7909100)], Track [(-7000900, 7909100) (-3810000, 11100000)], Track [(-3810000, 11100000) (-7000900, 14290900)], Track [(-7000900, 14290900) (-7000900, 25310700)], Track [(-7000900, 25310700) (-2161600, 30150000)], Track [(-2161600, 30150000) (952500, 30150000)], Track [(-147500, 30150000) (-2238400, 32240900)], Track [(952500, 30150000) (-147500, 30150000)], Track [(-2238400, 32240900) (-2238400, 43627850)], Track [(-2238400, 43627850) (3333750, 49200000)], Track [(3333750, 49200000) (142850, 52390900)], Track [(142850, 52390900) (142850, 62934450)], Track [(142850, 62934450) (5458400, 68250000)], Track [(5458400, 68250000) (8096250, 68250000)], Track [(8096250, 68250000) (-1650000, 77996250)], Track [(-1650000, 77996250) (-1650000, 87300000)]
+[kle_serial.py:749]: User layout: [[{'a': 6}, 'Esc', 'F1', 'F2', 'F3', 'F4', 'F5'], [{'a': 4}, '~\n`', '!\n1', '@\n2', '#\n3', '$\n4', '%\n5'], [{'w': 1.5}, 'Tab', 'Q', 'W', 'E', 'R', 'T'], [{'w': 1.75}, 'Caps Lock', 'A', 'S', 'D', 'F', 'G'], [{'a': 6, 'w': 2.25}, 'Shift', {'a': 4}, 'Z', 'X', 'C', 'V'], [{'a': 6}, 'fn', {'w': 1.25}, 'Ctrl', {'w': 1.25}, 'Alt', {'w': 1.25}, 'Win', {'a': 7, 'w': 2}, '']]
+[key_placer.py:595]: Layout offset: (28575000, 28575000)
+[board_modifier.py:83]: Setting SW1 footprint position: (38100000, 38100000)
+[board_modifier.py:83]: Setting SW2 footprint position: (57150000, 38100000)
+[board_modifier.py:83]: Setting SW3 footprint position: (76200000, 38100000)
+[board_modifier.py:83]: Setting SW4 footprint position: (95250000, 38100000)
+[board_modifier.py:83]: Setting SW5 footprint position: (114300000, 38100000)
+[board_modifier.py:83]: Setting SW6 footprint position: (133350000, 38100000)
+[board_modifier.py:83]: Setting SW7 footprint position: (38100000, 57150000)
+[board_modifier.py:83]: Setting SW8 footprint position: (57150000, 57150000)
+[board_modifier.py:83]: Setting SW9 footprint position: (76200000, 57150000)
+[board_modifier.py:83]: Setting SW10 footprint position: (95250000, 57150000)
+[board_modifier.py:83]: Setting SW11 footprint position: (114300000, 57150000)
+[board_modifier.py:83]: Setting SW12 footprint position: (133350000, 57150000)
+[board_modifier.py:83]: Setting SW13 footprint position: (42862500, 76200000)
+[board_modifier.py:83]: Setting SW14 footprint position: (66675000, 76200000)
+[board_modifier.py:83]: Setting SW15 footprint position: (85725000, 76200000)
+[board_modifier.py:83]: Setting SW16 footprint position: (104775000, 76200000)
+[board_modifier.py:83]: Setting SW17 footprint position: (123825000, 76200000)
+[board_modifier.py:83]: Setting SW18 footprint position: (142875000, 76200000)
+[board_modifier.py:83]: Setting SW19 footprint position: (45243750, 95250000)
+[board_modifier.py:83]: Setting SW20 footprint position: (71437500, 95250000)
+[board_modifier.py:83]: Setting SW21 footprint position: (90487500, 95250000)
+[board_modifier.py:83]: Setting SW22 footprint position: (109537500, 95250000)
+[board_modifier.py:83]: Setting SW23 footprint position: (128587500, 95250000)
+[board_modifier.py:83]: Setting SW24 footprint position: (147637500, 95250000)
+[board_modifier.py:83]: Setting SW25 footprint position: (50006250, 114300000)
+[board_modifier.py:83]: Setting SW26 footprint position: (80962500, 114300000)
+[board_modifier.py:83]: Setting SW27 footprint position: (100012500, 114300000)
+[board_modifier.py:83]: Setting SW28 footprint position: (119062500, 114300000)
+[board_modifier.py:83]: Setting SW29 footprint position: (138112500, 114300000)
+[board_modifier.py:83]: Setting SW30 footprint position: (38100000, 133350000)
+[board_modifier.py:83]: Setting SW31 footprint position: (59531250, 133350000)
+[board_modifier.py:83]: Setting SW32 footprint position: (83343750, 133350000)
+[board_modifier.py:83]: Setting SW33 footprint position: (107156250, 133350000)
+[board_modifier.py:83]: Setting SW34 footprint position: (138112500, 133350000)
+[key_placer.py:907]: Diode info: [ElementInfo(annotation_format='D{}', position_option=<PositionOption.UNCHANGED: 'Unchanged'>, position=ElementPosition(x=8.4, y=0.0, orientation=90.0, side=<Side.FRONT: 'Front'>), template_path='')]

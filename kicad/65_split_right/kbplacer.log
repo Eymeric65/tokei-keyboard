@@ -1,0 +1,356 @@
+[kbplacer_plugin_action.py:63]: Plugin version: 0.10
+[kbplacer_plugin_action.py:64]: Python version: '3.11.5 (main, Jan 19 2024, 08:13:45) [MSC v.1936 64 bit (AMD64)]'
+[kbplacer_plugin_action.py:65]: KiCad version: 8.0.0 with 4.2.0 msw (phoenix) wxWidgets 3.2.4
+[kbplacer_dialog.py:584]: Language: en
+[kbplacer_plugin_action.py:76]: GUI state: {"layout_path": "C:\\AA_perso\\Mechanical keyboard\\65_split\\keyboard_right.json", "key_distance": [19.05, 19.05], "key_info": {"annotation_format": "SW{}", "position_option": "Default", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}, "enable_diode_placement": true, "route_switches_with_diodes": true, "diode_info": {"annotation_format": "D{}", "position_option": "Default", "position": {"x": 5.08, "y": 3.03, "orientation": 90.0, "side": "Back"}, "template_path": ""}, "additional_elements": [{"annotation_format": "ST{}", "position_option": "Custom", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}], "route_rows_and_columns": true, "template_path": "", "generate_outline": false, "outline_delta": 0.0}
+[key_placer.py:299]: Set key 1U distance: 19050000/19050000
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:107]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix
+[key_placer.py:112]: Switches by nets: defaultdict(<class 'list'>, {frozenset({'GND', 'Net-(U1-RST)'}): ['SW0']})
+[key_placer.py:116]: Diodes by switch: {}
+[kle_serial.py:749]: User layout: [[{'x': 6, 'a': 6}, 'F6', 'F7', 'F8', 'F9', 'F10', 'F11', 'F12', {'a': 5}, 'PrtSc\nNmLk', 'Pause\nScrLk', 'Delete\nInsert'], [{'x': 6, 'a': 4}, '^\n6', '&\n7', '*\n8', '(\n9', ')\n0', '_\n-', '+\n=', {'a': 6, 'w': 2}, 'Backspace', 'Home'], [{'x': 6.5, 'a': 4}, 'Y', 'U', 'I', 'O', 'P', '{\n[', '}\n]', {'w': 1.5}, '|\n\\', {'a': 6}, 'Page Up'], [{'x': 6.75, 'a': 4}, 'H', 'J', 'K', 'L', ':\n;', '"\n\'', {'a': 6, 'w': 2.25}, 'Enter', 'Page Down'], [{'x': 6.25, 'a': 4}, 'B', 'N', 'M', '<\n,', '>\n.', '?\n/', {'a': 6, 'w': 1.75}, 'Shift', {'a': 7}, '↑', {'a': 6}, 'End'], [{'x': 6.75, 'a': 7, 'w': 2}, '', '', '', {'a': 6}, 'Ctrl', {'w': 1.25}, 'Alt', {'a': 7}, '←', '↓', '→']]
+[key_placer.py:595]: Layout offset: (28575000, 28575000)
+[board_modifier.py:83]: Setting SW1 footprint position: (152400000, 38100000)
+[board_modifier.py:83]: Setting SW2 footprint position: (171450000, 38100000)
+[board_modifier.py:83]: Setting SW3 footprint position: (190500000, 38100000)
+[board_modifier.py:83]: Setting SW4 footprint position: (209550000, 38100000)
+[board_modifier.py:83]: Setting SW5 footprint position: (228600000, 38100000)
+[board_modifier.py:83]: Setting SW6 footprint position: (247650000, 38100000)
+[board_modifier.py:83]: Setting SW7 footprint position: (266700000, 38100000)
+[board_modifier.py:83]: Setting SW8 footprint position: (285750000, 38100000)
+[board_modifier.py:83]: Setting SW9 footprint position: (304800000, 38100000)
+[board_modifier.py:83]: Setting SW10 footprint position: (323850000, 38100000)
+[board_modifier.py:83]: Setting SW11 footprint position: (152400000, 57150000)
+[board_modifier.py:83]: Setting SW12 footprint position: (171450000, 57150000)
+[board_modifier.py:83]: Setting SW13 footprint position: (190500000, 57150000)
+[board_modifier.py:83]: Setting SW14 footprint position: (209550000, 57150000)
+[board_modifier.py:83]: Setting SW15 footprint position: (228600000, 57150000)
+[board_modifier.py:83]: Setting SW16 footprint position: (247650000, 57150000)
+[board_modifier.py:83]: Setting SW17 footprint position: (266700000, 57150000)
+[board_modifier.py:83]: Setting SW18 footprint position: (295275000, 57150000)
+[board_modifier.py:83]: Setting SW19 footprint position: (323850000, 57150000)
+[board_modifier.py:83]: Setting SW20 footprint position: (161925000, 76200000)
+[board_modifier.py:83]: Setting SW21 footprint position: (180975000, 76200000)
+[board_modifier.py:83]: Setting SW22 footprint position: (200025000, 76200000)
+[board_modifier.py:83]: Setting SW23 footprint position: (219075000, 76200000)
+[board_modifier.py:83]: Setting SW24 footprint position: (238125000, 76200000)
+[board_modifier.py:83]: Setting SW25 footprint position: (257175000, 76200000)
+[board_modifier.py:83]: Setting SW26 footprint position: (276225000, 76200000)
+[board_modifier.py:83]: Setting SW27 footprint position: (300037500, 76200000)
+[board_modifier.py:83]: Setting SW28 footprint position: (323850000, 76200000)
+[board_modifier.py:83]: Setting SW29 footprint position: (166687500, 95250000)
+[board_modifier.py:83]: Setting SW30 footprint position: (185737500, 95250000)
+[board_modifier.py:83]: Setting SW31 footprint position: (204787500, 95250000)
+[board_modifier.py:83]: Setting SW32 footprint position: (223837500, 95250000)
+[board_modifier.py:83]: Setting SW33 footprint position: (242887500, 95250000)
+[board_modifier.py:83]: Setting SW34 footprint position: (261937500, 95250000)
+[board_modifier.py:83]: Setting SW35 footprint position: (292893750, 95250000)
+[board_modifier.py:83]: Setting SW36 footprint position: (323850000, 95250000)
+[board_modifier.py:83]: Setting SW37 footprint position: (157162500, 114300000)
+[board_modifier.py:83]: Setting SW38 footprint position: (176212500, 114300000)
+[board_modifier.py:83]: Setting SW39 footprint position: (195262500, 114300000)
+[board_modifier.py:83]: Setting SW40 footprint position: (214312500, 114300000)
+[board_modifier.py:83]: Setting SW41 footprint position: (233362500, 114300000)
+[board_modifier.py:83]: Setting SW42 footprint position: (252412500, 114300000)
+[board_modifier.py:83]: Setting SW43 footprint position: (278606250, 114300000)
+[board_modifier.py:83]: Setting SW44 footprint position: (304800000, 114300000)
+[board_modifier.py:83]: Setting SW45 footprint position: (323850000, 114300000)
+[board_modifier.py:83]: Setting SW46 footprint position: (176212500, 133350000)
+[board_modifier.py:83]: Setting SW47 footprint position: (204787500, 133350000)
+[board_modifier.py:83]: Setting SW48 footprint position: (223837500, 133350000)
+[board_modifier.py:83]: Setting SW49 footprint position: (242887500, 133350000)
+[board_modifier.py:83]: Setting SW50 footprint position: (264318750, 133350000)
+[board_modifier.py:83]: Setting SW51 footprint position: (285750000, 133350000)
+[board_modifier.py:83]: Setting SW52 footprint position: (304800000, 133350000)
+[board_modifier.py:83]: Setting SW53 footprint position: (323850000, 133350000)
+[key_placer.py:907]: Diode info: [ElementInfo(annotation_format='D{}', position_option=<PositionOption.DEFAULT: 'Default'>, position=ElementPosition(x=5.08, y=3.03, orientation=90.0, side=<Side.BACK: 'Back'>), template_path='')]
+[board_modifier.py:96]: Getting SW0 footprint position: (-170641800, -4204200)
+[board_modifier.py:96]: Getting SW1 footprint position: (152400000, 38100000)
+[board_modifier.py:96]: Getting SW10 footprint position: (323850000, 38100000)
+[board_modifier.py:96]: Getting SW11 footprint position: (152400000, 57150000)
+[board_modifier.py:96]: Getting SW12 footprint position: (171450000, 57150000)
+[board_modifier.py:96]: Getting SW13 footprint position: (190500000, 57150000)
+[board_modifier.py:96]: Getting SW14 footprint position: (209550000, 57150000)
+[board_modifier.py:96]: Getting SW15 footprint position: (228600000, 57150000)
+[board_modifier.py:96]: Getting SW16 footprint position: (247650000, 57150000)
+[board_modifier.py:96]: Getting SW17 footprint position: (266700000, 57150000)
+[board_modifier.py:96]: Getting SW18 footprint position: (295275000, 57150000)
+[board_modifier.py:96]: Getting SW19 footprint position: (323850000, 57150000)
+[board_modifier.py:96]: Getting SW2 footprint position: (171450000, 38100000)
+[board_modifier.py:96]: Getting SW20 footprint position: (161925000, 76200000)
+[board_modifier.py:96]: Getting SW21 footprint position: (180975000, 76200000)
+[board_modifier.py:96]: Getting SW22 footprint position: (200025000, 76200000)
+[board_modifier.py:96]: Getting SW23 footprint position: (219075000, 76200000)
+[board_modifier.py:96]: Getting SW24 footprint position: (238125000, 76200000)
+[board_modifier.py:96]: Getting SW25 footprint position: (257175000, 76200000)
+[board_modifier.py:96]: Getting SW26 footprint position: (276225000, 76200000)
+[board_modifier.py:96]: Getting SW27 footprint position: (300037500, 76200000)
+[board_modifier.py:96]: Getting SW28 footprint position: (323850000, 76200000)
+[board_modifier.py:96]: Getting SW29 footprint position: (166687500, 95250000)
+[board_modifier.py:96]: Getting SW3 footprint position: (190500000, 38100000)
+[board_modifier.py:96]: Getting SW30 footprint position: (185737500, 95250000)
+[board_modifier.py:96]: Getting SW31 footprint position: (204787500, 95250000)
+[board_modifier.py:96]: Getting SW32 footprint position: (223837500, 95250000)
+[board_modifier.py:96]: Getting SW33 footprint position: (242887500, 95250000)
+[board_modifier.py:96]: Getting SW34 footprint position: (261937500, 95250000)
+[board_modifier.py:96]: Getting SW35 footprint position: (292893750, 95250000)
+[board_modifier.py:96]: Getting SW36 footprint position: (323850000, 95250000)
+[board_modifier.py:96]: Getting SW37 footprint position: (157162500, 114300000)
+[board_modifier.py:96]: Getting SW38 footprint position: (176212500, 114300000)
+[board_modifier.py:96]: Getting SW39 footprint position: (195262500, 114300000)
+[board_modifier.py:96]: Getting SW4 footprint position: (209550000, 38100000)
+[board_modifier.py:96]: Getting SW40 footprint position: (214312500, 114300000)
+[board_modifier.py:96]: Getting SW41 footprint position: (233362500, 114300000)
+[board_modifier.py:96]: Getting SW42 footprint position: (252412500, 114300000)
+[board_modifier.py:96]: Getting SW43 footprint position: (278606250, 114300000)
+[board_modifier.py:96]: Getting SW44 footprint position: (304800000, 114300000)
+[board_modifier.py:96]: Getting SW45 footprint position: (323850000, 114300000)
+[board_modifier.py:96]: Getting SW46 footprint position: (176212500, 133350000)
+[board_modifier.py:96]: Getting SW47 footprint position: (204787500, 133350000)
+[board_modifier.py:96]: Getting SW48 footprint position: (223837500, 133350000)
+[board_modifier.py:96]: Getting SW49 footprint position: (242887500, 133350000)
+[board_modifier.py:96]: Getting SW5 footprint position: (228600000, 38100000)
+[board_modifier.py:96]: Getting SW50 footprint position: (264318750, 133350000)
+[board_modifier.py:96]: Getting SW51 footprint position: (285750000, 133350000)
+[board_modifier.py:96]: Getting SW52 footprint position: (304800000, 133350000)
+[board_modifier.py:96]: Getting SW53 footprint position: (323850000, 133350000)
+[board_modifier.py:96]: Getting SW6 footprint position: (247650000, 38100000)
+[board_modifier.py:96]: Getting SW7 footprint position: (266700000, 38100000)
+[board_modifier.py:96]: Getting SW8 footprint position: (285750000, 38100000)
+[board_modifier.py:96]: Getting SW9 footprint position: (304800000, 38100000)
+[board_modifier.py:96]: Getting SW53 footprint position: (323850000, 133350000)
+[board_modifier.py:63]: Searching for ST53 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW52 footprint position: (304800000, 133350000)
+[board_modifier.py:63]: Searching for ST52 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW51 footprint position: (285750000, 133350000)
+[board_modifier.py:63]: Searching for ST51 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW50 footprint position: (264318750, 133350000)
+[board_modifier.py:63]: Searching for ST50 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW49 footprint position: (242887500, 133350000)
+[board_modifier.py:63]: Searching for ST49 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW48 footprint position: (223837500, 133350000)
+[board_modifier.py:63]: Searching for ST48 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW47 footprint position: (204787500, 133350000)
+[board_modifier.py:63]: Searching for ST47 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW46 footprint position: (176212500, 133350000)
+[board_modifier.py:63]: Searching for ST46 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW45 footprint position: (323850000, 114300000)
+[board_modifier.py:63]: Searching for ST45 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW44 footprint position: (304800000, 114300000)
+[board_modifier.py:63]: Searching for ST44 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW43 footprint position: (278606250, 114300000)
+[board_modifier.py:63]: Searching for ST43 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW42 footprint position: (252412500, 114300000)
+[board_modifier.py:63]: Searching for ST42 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW41 footprint position: (233362500, 114300000)
+[board_modifier.py:63]: Searching for ST41 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW40 footprint position: (214312500, 114300000)
+[board_modifier.py:63]: Searching for ST40 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW39 footprint position: (195262500, 114300000)
+[board_modifier.py:63]: Searching for ST39 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW38 footprint position: (176212500, 114300000)
+[board_modifier.py:63]: Searching for ST38 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW37 footprint position: (157162500, 114300000)
+[board_modifier.py:63]: Searching for ST37 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW36 footprint position: (323850000, 95250000)
+[board_modifier.py:63]: Searching for ST36 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW35 footprint position: (292893750, 95250000)
+[board_modifier.py:63]: Searching for ST35 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW34 footprint position: (261937500, 95250000)
+[board_modifier.py:63]: Searching for ST34 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW33 footprint position: (242887500, 95250000)
+[board_modifier.py:63]: Searching for ST33 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW32 footprint position: (223837500, 95250000)
+[board_modifier.py:63]: Searching for ST32 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW31 footprint position: (204787500, 95250000)
+[board_modifier.py:63]: Searching for ST31 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW30 footprint position: (185737500, 95250000)
+[board_modifier.py:63]: Searching for ST30 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW29 footprint position: (166687500, 95250000)
+[board_modifier.py:63]: Searching for ST29 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW28 footprint position: (323850000, 76200000)
+[board_modifier.py:63]: Searching for ST28 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW27 footprint position: (300037500, 76200000)
+[board_modifier.py:63]: Searching for ST27 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW26 footprint position: (276225000, 76200000)
+[board_modifier.py:63]: Searching for ST26 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW25 footprint position: (257175000, 76200000)
+[board_modifier.py:63]: Searching for ST25 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW24 footprint position: (238125000, 76200000)
+[board_modifier.py:63]: Searching for ST24 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW23 footprint position: (219075000, 76200000)
+[board_modifier.py:63]: Searching for ST23 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW22 footprint position: (200025000, 76200000)
+[board_modifier.py:63]: Searching for ST22 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW21 footprint position: (180975000, 76200000)
+[board_modifier.py:63]: Searching for ST21 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW20 footprint position: (161925000, 76200000)
+[board_modifier.py:63]: Searching for ST20 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW19 footprint position: (323850000, 57150000)
+[board_modifier.py:63]: Searching for ST19 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW18 footprint position: (295275000, 57150000)
+[board_modifier.py:63]: Searching for ST18 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW17 footprint position: (266700000, 57150000)
+[board_modifier.py:63]: Searching for ST17 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW16 footprint position: (247650000, 57150000)
+[board_modifier.py:63]: Searching for ST16 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW15 footprint position: (228600000, 57150000)
+[board_modifier.py:63]: Searching for ST15 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW14 footprint position: (209550000, 57150000)
+[board_modifier.py:63]: Searching for ST14 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW13 footprint position: (190500000, 57150000)
+[board_modifier.py:63]: Searching for ST13 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW12 footprint position: (171450000, 57150000)
+[board_modifier.py:63]: Searching for ST12 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW11 footprint position: (152400000, 57150000)
+[board_modifier.py:63]: Searching for ST11 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW10 footprint position: (323850000, 38100000)
+[board_modifier.py:63]: Searching for ST10 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW9 footprint position: (304800000, 38100000)
+[board_modifier.py:63]: Searching for ST9 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW8 footprint position: (285750000, 38100000)
+[board_modifier.py:63]: Searching for ST8 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW7 footprint position: (266700000, 38100000)
+[board_modifier.py:63]: Searching for ST7 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW6 footprint position: (247650000, 38100000)
+[board_modifier.py:63]: Searching for ST6 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW5 footprint position: (228600000, 38100000)
+[board_modifier.py:63]: Searching for ST5 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW4 footprint position: (209550000, 38100000)
+[board_modifier.py:63]: Searching for ST4 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW3 footprint position: (190500000, 38100000)
+[board_modifier.py:63]: Searching for ST3 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW2 footprint position: (171450000, 38100000)
+[board_modifier.py:63]: Searching for ST2 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW1 footprint position: (152400000, 38100000)
+[board_modifier.py:63]: Searching for ST1 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:96]: Getting SW0 footprint position: (-170641800, -4204200)
+[board_modifier.py:63]: Searching for ST0 footprint in C:/AA_perso/Mechanical keyboard/65_split/Kicad Project/65_split_right/65_split_right.kicad_pcb
+[board_modifier.py:66]: Footprint not found
+[board_modifier.py:433]: Routing at F.Cu layer
+[board_modifier.py:499]: Routing pad 'SW0:2' at (-172341800, -4204200) with pad 'J2:1' at (-170141800, -1204200) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:362]: Adding track segment (F.Cu): [(-172341800, -4204200), (-172341800, -3404200)]
+[board_modifier.py:367]: Track added
+[board_modifier.py:362]: Adding track segment (F.Cu): [(-172341800, -3404200), (-170141800, -1204200)]
+[board_modifier.py:367]: Track added
+[board_modifier.py:433]: Routing at B.Cu layer
+[board_modifier.py:499]: Routing pad 'J2:1' at (-170141800, -1204200) with pad 'U1:4' at (-166059303, -28734200) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:362]: Adding track segment (B.Cu): [(-170141800, -1204200), (-170141800, -24651703)]
+[board_modifier.py:370]: Could not add track segment due to detected collision
+[board_modifier.py:362]: Adding track segment (B.Cu): [(-170141800, -1204200), (-166059303, -5286697)]
+[board_modifier.py:367]: Track added
+[board_modifier.py:362]: Adding track segment (B.Cu): [(-166059303, -5286697), (-166059303, -28734200)]
+[board_modifier.py:370]: Could not add track segment due to detected collision
+[board_modifier.py:433]: Routing at F.Cu layer
+[board_modifier.py:499]: Routing pad 'SW0:1' at (-168941800, -4204200) with pad 'U1:22' at (-168723999, -31274200) using coordinate system rotated by 0 degree(s)
+[board_modifier.py:362]: Adding track segment (F.Cu): [(-168941800, -4204200), (-168941800, -31056399)]
+[board_modifier.py:370]: Could not add track segment due to detected collision
+[board_modifier.py:362]: Adding track segment (F.Cu): [(-168941800, -4204200), (-168723999, -4422001)]
+[board_modifier.py:370]: Could not add track segment due to detected collision
+[key_placer.py:395]: Removing dangling tracks
+[key_placer.py:407]: Removing 2ddbaa10-8505-42aa-b636-11370a99e8b8
+[key_placer.py:395]: Removing dangling tracks
